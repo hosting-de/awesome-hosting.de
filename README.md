@@ -15,10 +15,10 @@
   - [Official Resources](#official-resources)
   - [Conferences](#conferences)
   - [Job Portal](#job-portal)
-- [hosting.de API Clients](#hosting.de-api-clients)
+- [hosting.de API Clients](#hostingde-api-clients)
   - [Go](#go)
   - [Python](#python)
-- [hosting.de Integration](#hosting.de-integration)
+- [hosting.de Integration](#hostingde-integration)
 
 ## Resources
 
