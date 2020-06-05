@@ -53,3 +53,4 @@
 ## hosting.de Integration
 
 - [acme.sh](https://github.com/acmesh-official/acme.sh/) - A pure Unix shell script implementing ACME client protocol.
+- [caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy
