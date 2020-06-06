@@ -10,6 +10,8 @@
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
+# Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 > A curated list of awesome things related to hosting.de
 
 - [Resources](#resources)
@@ -38,7 +40,7 @@
 
 - [hosting.de Career](https://www.hosting.de/karriere/)
 
-## hosting.de API Clients
+## API Clients
 
 ### Go
 
@@ -51,7 +53,7 @@
 - [hosting.de_update.py](https://github.com/lemo/hosting.de_update.py/) - Update your dns settings on hosting.de via REST API.
 - [no-hostingde-api](https://github.com/DimeOne/no-hostingde-api/) - Python3 library for accessing the hosting.de dns api.
 
-## hosting.de Integration
+## Integrations
 
 - [acme.sh](https://github.com/acmesh-official/acme.sh/) - A pure Unix shell script implementing ACME client protocol.
 - [caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy
