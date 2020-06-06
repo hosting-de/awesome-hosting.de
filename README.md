@@ -7,7 +7,8 @@
   <br>
 </p>
 
-## Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<!-- Used for the "back to top" links within the document -->
+<div id="contents"></div>
 
 > A curated list of awesome things related to hosting.de
 
@@ -54,3 +55,6 @@
 
 - [acme.sh](https://github.com/acmesh-official/acme.sh/) - A pure Unix shell script implementing ACME client protocol.
 - [caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy
+
+<br>
+<sub>[⇧ back to top](#contents)</sub>
