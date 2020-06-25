@@ -10,7 +10,7 @@
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
-# Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](./assets/hostingde-api.svg)](https://github.com/topics/hostingde)
+# Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](./assets/hostingde-api.svg)](https://github.com/topics/hostingde) [![GitHub contributors](https://img.shields.io/github/contributors-anon/hosting-de/awesome-hosting.de)](https://github.com/hosting-de/awesome-hosting.de/graphs/contributors)
 
 > A curated list of awesome things related to hosting.de
 
