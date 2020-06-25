@@ -46,6 +46,7 @@
 
 - [cert-manager-webhook-hostingde](https://github.com/Uniscon/cert-manager-webhook-hostingde/) - Cert manager webhook for hosting.de DNS API
 - [hostingDeUpdateIP](https://github.com/HarrPerson/hostingDeUpdateIP/) - Updates DNS entries for dynamically changed IPv4 and IPv6 addresses.
+- [terraform-provider-hostingde](https://github.com/martinhoefling/terraform-provider-hostingde) - Hosting.de Terraform Provider.
 
 ### Python
 
