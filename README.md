@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://hosting.de" target="_blank" rel="noopener noreferrer">
-    <img width="400" src="./assets/logo.svg" alt="logo of awesome-hosting.de repository">
+    <img width="400" src="./assets/hostingde-awesome.svg" alt="logo of awesome-hosting.de repository">
   </a>
   <br>
   <br>
@@ -10,7 +10,7 @@
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
-# Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome hosting.de [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](./assets/hostingde-api.svg)](https://github.com/topics/hostingde)
 
 > A curated list of awesome things related to hosting.de
 
