@@ -30,9 +30,9 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 ## Official
 
 - [API Documentation](https://hosting.de/api/)
-- [hosting.de Twitter](https://twitter.com/hostingde/)
 - [Blog](https://www.hosting.de/blog/)
 - [Career at hosting.de](https://www.hosting.de/karriere/)
+- [:bird: @hostingde](https://twitter.com/hostingde/)
 
 ## API Clients
 
