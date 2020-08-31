@@ -52,6 +52,7 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 
 - [acme.sh](https://github.com/acmesh-official/acme.sh/) - A pure Unix shell script implementing ACME client protocol.
 - [caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy.
+- [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
 
 ## About This Document
 
