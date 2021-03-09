@@ -36,23 +36,36 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 
 ## API Clients
 
+### PHP
+
+- [hostingde-api-php](https://github.com/hosting-de-labs/hostingde-api-php) - PHP Client Library in development
+
 ### Go
 
-- [cert-manager-webhook-hostingde](https://github.com/Uniscon/cert-manager-webhook-hostingde/) - Cert manager webhook for hosting.de DNS API.
-- [hostingDeUpdateIP](https://github.com/HarrPerson/hostingDeUpdateIP/) - Updates DNS entries for dynamically changed IPv4 and IPv6 addresses.
-- [terraform-provider-hostingde](https://github.com/martinhoefling/terraform-provider-hostingde) - Hosting.de Terraform Provider.
+- [platform-go](https://github.com/hosting-de-labs/go-platform) - Go Client Library in development
 
 ### Python
 
-- [certbot-dns-hostingde](https://github.com/initit/certbot-dns-hostingde/) - Certbot dns plugin for hosting.de.
-- [hosting.de_update.py](https://github.com/lemo/hosting.de_update.py/) - Update your dns settings on hosting.de via REST API.
 - [no-hostingde-api](https://github.com/DimeOne/no-hostingde-api/) - Python3 library for accessing the hosting.de dns api.
 
 ## Integrations
 
+### completely supported
+
 - [acme.sh](https://github.com/acmesh-official/acme.sh/) - A pure Unix shell script implementing ACME client protocol.
-- [caa_helper](https://github.com/SSLMate/caa_helper) - Generate a CAA policy.
+- [dnscontrol](https://github.com/StackExchange/dnscontrol) - A system for maintaining DNS zones
+- [Lexicon](https://github.com/AnalogJ/lexicon) - Lexicon provides a way to manipulate DNS records on multiple DNS providers in a standardized way
 - [lego](https://github.com/go-acme/lego) - Let's Encrypt client and ACME library written in Go.
+
+### optional Plugins
+
+- [cert-manager-webhook-hostingde](https://github.com/Uniscon/cert-manager-webhook-hostingde/) - Cert manager webhook for hosting.de DNS API.
+- [terraform-provider-hostingde](https://github.com/martinhoefling/terraform-provider-hostingde) - Hosting.de Terraform Provider.
+- [certbot-dns-hostingde](https://github.com/initit/certbot-dns-hostingde/) - Certbot dns plugin for hosting.de.
+
+## Other solutions
+
+- [hostingDeUpdateIP](https://github.com/HarrPerson/hostingDeUpdateIP/) - Updates DNS entries for dynamically changed IPv4 and IPv6 addresses.
 
 ## About This Document
 
