@@ -12,6 +12,7 @@ A curated list of awesome creations made with the hosting.de API. Inspired by [o
 
 If you are new to the hosting.de API you can find out more about it in the [documentation](https://www.hosting.de/api/).
 
+<!-- prettier-ignore-start -->
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Contents
@@ -19,13 +20,18 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 - [Official](#official)
 - [API Clients](#api-clients)
   - [Go](#go)
+  - [PHP](#php)
   - [Python](#python)
 - [Integrations](#integrations)
+  - [completely supported](#completely-supported)
+  - [optional Plugins](#optional-plugins)
+- [Other solutions](#other-solutions)
 - [About This Document](#about-this-document)
   - [License](#license)
   - [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
+<!-- prettier-ignore-end -->
 
 ## Official
 
@@ -36,13 +42,13 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 
 ## API Clients
 
-### PHP
-
-- [hostingde-api-php](https://github.com/hosting-de-labs/hostingde-api-php) - PHP Client Library in development
-
 ### Go
 
 - [platform-go](https://github.com/hosting-de-labs/go-platform) - Go Client Library in development
+
+### PHP
+
+- [hostingde-api-php](https://github.com/hosting-de-labs/hostingde-api-php) - PHP Client Library in development
 
 ### Python
 
