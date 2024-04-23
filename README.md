@@ -65,7 +65,7 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 
 ### optional Plugins
 
-- [cert-manager-webhook-hostingde](https://github.com/Uniscon/cert-manager-webhook-hostingde/) - Cert manager webhook for hosting.de DNS API.
+- [cert-manager-webhook-hostingde](https://github.com/jkahrs/cert-manager-webhook-hostingde/) - Cert manager webhook for hosting.de DNS API.
 - [terraform-provider-hostingde](https://github.com/martinhoefling/terraform-provider-hostingde) - Hosting.de Terraform Provider.
 - [certbot-dns-hostingde](https://github.com/initit/certbot-dns-hostingde/) - Certbot dns plugin for hosting.de.
 
