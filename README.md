@@ -38,7 +38,6 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 - [API Documentation](https://hosting.de/api/)
 - [Blog](https://www.hosting.de/blog/)
 - [Career at hosting.de](https://www.hosting.de/karriere/)
-- [:bird: @hostingde](https://twitter.com/hostingde/)
 
 ## API Clients
 
@@ -52,6 +51,7 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 
 ### Python
 
+- [python-hostingde](https://github.com/cancom/python-hostingde/) - Python Library from Cancom, one of the big german IT system houses.
 - [no-hostingde-api](https://github.com/DimeOne/no-hostingde-api/) - Python3 library for accessing the hosting.de dns api.
 
 ## Integrations
@@ -72,6 +72,8 @@ If you are new to the hosting.de API you can find out more about it in the [docu
 ## Other solutions
 
 - [hostingDeUpdateIP](https://github.com/HarrPerson/hostingDeUpdateIP/) - Updates DNS entries for dynamically changed IPv4 and IPv6 addresses.
+- [certbot-hosting.de-dns-tlsa-bash](https://codeberg.org/tag/certbot-hosting.de-dns-tlsa-bash) - Create and automatically update TLSA entry 3 0 1 in bash
+- [certbot-hosting.de-dns-manualhooks-bash](https://codeberg.org/tag/certbot-hosting.de-dns-manualhooks-bash) - request wildcard certificates in bash
 
 ## About This Document
 
